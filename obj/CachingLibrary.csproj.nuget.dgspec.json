@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BUAH DZAKAR\\source\\repos\\Kantor\\SogogoBackendService\\CachingLibrary\\CachingLibrary.csproj": {}
+    "C:\\Users\\BUAH DZAKAR\\Desktop\\i\\CachingLib\\CachingLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BUAH DZAKAR\\source\\repos\\Kantor\\SogogoBackendService\\CachingLibrary\\CachingLibrary.csproj": {
+    "C:\\Users\\BUAH DZAKAR\\Desktop\\i\\CachingLib\\CachingLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BUAH DZAKAR\\source\\repos\\Kantor\\SogogoBackendService\\CachingLibrary\\CachingLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\BUAH DZAKAR\\Desktop\\i\\CachingLib\\CachingLibrary.csproj",
         "projectName": "CachingLibrary",
-        "projectPath": "C:\\Users\\BUAH DZAKAR\\source\\repos\\Kantor\\SogogoBackendService\\CachingLibrary\\CachingLibrary.csproj",
+        "projectPath": "C:\\Users\\BUAH DZAKAR\\Desktop\\i\\CachingLib\\CachingLibrary.csproj",
         "packagesPath": "C:\\Users\\BUAH DZAKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BUAH DZAKAR\\source\\repos\\Kantor\\SogogoBackendService\\CachingLibrary\\obj\\",
+        "outputPath": "C:\\Users\\BUAH DZAKAR\\Desktop\\i\\CachingLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,11 +71,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }

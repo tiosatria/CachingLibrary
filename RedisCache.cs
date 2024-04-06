@@ -1,18 +1,17 @@
 ﻿
-
 using Newtonsoft.Json;
 
 namespace CachingLibrary
 {
-    public sealed class Cache<T>
+    public sealed class RedisCache<T>
     {
 
-        public Cache(string key)
+        public RedisCache(string key)
         {
             this.Key=key;
         }
 
-        public Cache(string key, T Data)
+        public RedisCache(string key, T Data)
         {
             this.Key = key;
             this.Data = Data;
@@ -46,6 +45,8 @@ namespace CachingLibrary
             var strData = JsonConvert.SerializeObject(Data);
             return await Redis.db.StringSetAsync(Key, strData, ts);
         }
+
+        public async Task<bool> DeleteAsync() => await Redis.db.KeyDeleteAsync(Key);
 
         public static async Task<bool> DeleteAsync(string key)
         {
