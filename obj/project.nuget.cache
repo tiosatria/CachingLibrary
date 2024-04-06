@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5G5HzclC/dysn0XBoyD4jn+PnCtDh13UloHjyLWTDcDZjGHv/3ncDwTHG3Y8hk9joGcMDllsTC9I3tVGVwIwIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BUAH DZAKAR\\source\\repos\\Kantor\\SogogoBackendService\\CachingLibrary\\CachingLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BUAH DZAKAR\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\BUAH DZAKAR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\BUAH DZAKAR\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\BUAH DZAKAR\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\BUAH DZAKAR\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

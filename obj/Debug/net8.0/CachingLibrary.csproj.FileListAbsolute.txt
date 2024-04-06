@@ -1,0 +1,13 @@
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\bin\Debug\net8.0\CachingLibrary.deps.json
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\bin\Debug\net8.0\CachingLibrary.dll
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\bin\Debug\net8.0\CachingLibrary.pdb
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.csproj.AssemblyReference.cache
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.AssemblyInfoInputs.cache
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.AssemblyInfo.cs
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.sourcelink.json
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.dll
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\refint\CachingLibrary.dll
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\CachingLibrary.pdb
+C:\Users\BUAH DZAKAR\source\repos\Kantor\SogogoBackendService\CachingLibrary\obj\Debug\net8.0\ref\CachingLibrary.dll
