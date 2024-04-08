@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CachingLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf39d6f65c4e9b548766e77c84827102c0726d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ffafee0769135464fbe495ae412006ea204980e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CachingLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CachingLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
